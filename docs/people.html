@@ -1,0 +1,65 @@
+---
+layout: default
+title: People
+---
+<div>
+  <div style="margin: 10px 10px 10px 10px;">
+    <img src="images/lab_20161123_small.jpg">
+  </div>
+
+  <div style="clear: both"></div>
+</div>
+
+{% for person in site.data.people-fulltime %}
+<div class="person-header">
+  <div class="person-left">{{ person.name }}</div>
+  <div class="person-right">{{ person.position }}</div>
+  <div style="clear: both"></div>
+</div>
+
+<div>
+  <div style="margin: 10px 10px 10px 10px; float: left; width: 170px;">
+      <img src="{{ person.picture }}">
+  </div>
+
+  <div style="float: right; width: 400px;">
+    {{ person.info }}
+  </div>
+
+  <div style="clear: both"></div>
+</div>
+
+<p></p>
+{% endfor %}
+
+{% for person in site.data.people-shortterm %}
+<div class="person-header">
+  <div class="person-left">{{ person.name }}</div>
+  <div class="person-right">{{ person.position }}</div>
+  <div style="clear: both"></div>
+</div>
+
+<div>
+  <div style="margin: 10px 10px 10px 10px; float: left; width: 170px;">
+      <img src="{{ person.picture }}">
+  </div>
+
+  <div style="float: right; width: 400px;">
+    {{ person.info }}
+  </div>
+
+  <div style="clear: both"></div>
+</div>
+{% endfor %}
+
+<div class="section-header">
+Former Ingolia lab Members
+</div>
+
+<p>Here is a list of <a href="./former.html">former Ingolia lab members</a></p>
+
+<div class="section-header">
+Future Ingolia lab Members
+</div>
+
+{% include joining.html %}
