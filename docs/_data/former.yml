@@ -15,11 +15,27 @@
   time: 2015&mdash;2021
   group: y_2021
 
+- name: David Noble
+  position: Undergraduate
+  time: 2019&mdash;2021
+  now: Data Scientist, <a href="https://www.aalphabio.com/">A-Alpha Bio</a>
+  group: u_2021
+
+- name: Gia Wicaksono
+  position: Undergraduate
+  group: u_2021
+  now: Technician in the Wiita lab at UCSF
+
 - name: Mia Pulos-Holmes
   position: Ph.D. student (joint)
   time: 2014&mdash;2020
   now: Scientist, Acrigen Biosciences
   group: y_2020
+
+- name: Jean Lee
+  position: Undergraduate
+  time: 2019&mdash;2020
+  group: u_2020
 
 - name: Ali Nezhad
   position: Undergraduate
