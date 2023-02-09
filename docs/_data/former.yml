@@ -1,3 +1,9 @@
+- name: Lina Wan
+  position: Undergraduate
+  time: 2022
+  now: Master's student, Imperial College London
+  group: u_2022
+
 - name: Zuriah Meacham
   position: Technician / Lab Manager
   time: 2014&mdash;2022
@@ -13,6 +19,7 @@
 - name: Kendra Reynaud
   position: Ph.D. student
   time: 2015&mdash;2021
+  now: Project Leader, <a href="https://www.bioaster.org/">BIOASTER</a>
   group: y_2021
 
 - name: David Noble
