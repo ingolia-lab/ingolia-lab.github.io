@@ -1,3 +1,32 @@
+- name: Sua Lee
+  position: Undegraduate
+  time: 2025
+  group: u_2025
+
+- name: Rachel Baum
+  position: Graduate Student (MCB)
+  time: 2018&mdash;2024
+  now: Scientist, Trace Neuro
+  group: y_2024
+
+- name: Lucas Ferguson
+  position: Graduate Student (MCB), joint with Kathy Collins
+  time: 2019&mdash;2024
+  now: Scientist, Interdict Bio
+  group: y_2024
+
+- name: Paige Diamond
+  position: Graduate Student (MCB)
+  time: 2017&mdash;2023
+  now: Scientist, Interdict Bio
+  group: y_2023
+
+- name: Sam Fernandez
+  position: Graduate Student (MCB)
+  time: 2016&mdash;2022
+  now: Postdoctoral fellow in the Kranzusch lab at Harvard Med
+  group: y_2022
+
 - name: Lina Wan
   position: Undergraduate
   time: 2022
@@ -94,7 +123,7 @@
   time: 2013&mdash;2016
   group: z_2016
   now: Chief Scientist (PI) at <a href="http://www.riken.jp/en/research/labs/associate/rna_sys_biochem/">RIKEN</a>
-  
+
 - name: Eric Mills
   position: Ph.D. student
   time: 2010&mdash;2015
